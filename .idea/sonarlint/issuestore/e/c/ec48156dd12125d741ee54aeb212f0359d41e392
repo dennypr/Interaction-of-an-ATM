@@ -1,0 +1,25 @@
+
+a
+java:S1192E"FDefine a constant instead of duplicating this literal "Email" 4 times.(ìóæÊøÿÿÿÿ
+b
+java:S1192"KDefine a constant instead of duplicating this literal "redirect:/" 3 times.(äÔ¶½
+T
+java:S1854)"9Remove this useless assignment to local variable "saldo".(İÉµÙÿÿÿÿÿ
+V
+java:S1854}";Remove this useless assignment to local variable "balance".(õ´Û°ûÿÿÿÿ
+Q
+java:S1854€";Remove this useless assignment to local variable "balance".(ŠˆÏ*
+W
+java:S1854˜";Remove this useless assignment to local variable "balance".(õ´Û°ûÿÿÿÿ
+Q
+java:S1854š";Remove this useless assignment to local variable "balance".(ŠˆÏ*
+W
+java:S1854¶";Remove this useless assignment to local variable "balance".(õ´Û°ûÿÿÿÿ
+U
+java:S1128"3Remove this unused import 'com.knf.dev.model.User'.(Ÿˆ›ûùÿÿÿÿ8µÈ€ç¬0
+p
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.ModelAttribute'.(®ùæé8·È€ç¬0
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ

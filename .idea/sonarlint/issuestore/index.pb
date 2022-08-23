@@ -1,0 +1,23 @@
+
+k
+;src/main/java/com/knf/dev/config/SecurityConfiguration.java,3\b\3b61de34537946f7971743b61fd3c554514bbece
+f
+6src/main/java/com/knf/dev/dto/UserRegistrationDto.java,5\0\50842c84f9399d222f43c66696736f69e49c59db
+i
+9src/main/java/com/knf/dev/web/RegistrationController.java,a\9\a9a3f343be02ae849a62efe01ddc47d17ff201b6
+Y
+)src/main/java/com/knf/dev/model/Role.java,9\5\9595889dac2ec3d304d6cd291397b404cec70947
+f
+6src/main/java/com/knf/dev/service/UserServiceImpl.java,f\3\f3b8bbab98fc13e470e557258c478885fb3f707a
+b
+2src/main/java/com/knf/dev/service/UserService.java,b\7\b7fdc618d99df823cbc4d0011d6fc858a885d3f0
+h
+8src/main/java/com/knf/dev/repository/UserRepository.java,7\5\75e6e8d32b403b68e06532c7b2ef4ec81834e2ab
+Y
+)src/main/java/com/knf/dev/model/User.java,4\a\4a283d45d96747d07d8d720eb5fb2596c4aa6637
+Z
+*src/main/java/com/knf/dev/Application.java,6\9\69cb15cd92967d12567bfb594789e5a5d395eceb
+a
+1src/main/java/com/knf/dev/web/HomeController.java,e\c\ec48156dd12125d741ee54aeb212f0359d41e392
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
